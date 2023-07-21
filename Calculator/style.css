@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  .row{
+    margin: 6px 0;
+  }
+  .Mx-auto{
+      margin:auto;
+    }
+  .button{
+    width:50px;
+    padding: 15px;
+    margin:0,9px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    
+  }
+  .row input{
+    width:202px;
+    font-size: 20px;
+    margin: 0px;
+    padding: 10px 0px ;
+    border: 2px solid black;
+    border-radius: 5px;
+  }
